@@ -1,0 +1,11 @@
+config.py
+*.json
+bin
+include
+lib
+lib64
+__pycache__
+share
+
+lmda.txt
+bbk_zara.txt
